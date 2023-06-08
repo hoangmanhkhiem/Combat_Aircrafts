@@ -25,7 +25,7 @@ int r3=1;
 
 int t=1; //Gameover
 int f=0; // Score
-int m=2; // May bay dich
+int m=4; // May bay dich
 int j=0; // Diem tieu diet
 char p; // Nhan phim
 int hp = 3; // Mau may bay
